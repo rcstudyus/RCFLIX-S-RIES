@@ -141,6 +141,16 @@
 </channel>
 </channels>
 
+<channels>
+<channel>
+<name>[COLOR write]|||[/COLOR][COLOR purple]|||[/COLOR][COLOR white]|||[/COLOR] [COLOR white]LOVE ALARM[/COLOR] [COLOR white]|||[/COLOR][COLOR purple]|||[/COLOR][COLOR white]|||[/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/rcstudyus/RCFLIX-SERIES/master/LOVE%20ALARM</externallink>
+<thumbnail>https://ondebaixa.com/capas/love-alarm-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/rIG6KjizMgw/maxresdefault.jpg</fanart>
+<info>[COLOR blue]Em um mundo em que um aplicativo avisa seus usuários se alguém por perto gosta deles, Kim Jojo descobre o amor e encara as adversidades da vida. O Love Alarm é um aplicativo de celular com tecnologia disruptiva e funciona como um "detector de crushs".[/COLOR]</info>
+</channel>
+</channels>
+
 
 <channels>
 <channel>
@@ -396,6 +406,18 @@
 <name>[COLOR write]|||[/COLOR][COLOR purple]|||[/COLOR][COLOR white]|||[/COLOR] [COLOR white]PAGINA 2[/COLOR] [COLOR white]|||[/COLOR][COLOR purple]|||[/COLOR][COLOR white]|||[/COLOR]</name>
 <externallink>https://pastebin.com/raw/Wi4rY4xM</externallink>
 <thumbnail>https://aimore.org/radio/radio_pagina_2.png</thumbnail>
+<fanart></fanart>
+<info>[COLOR blue][/COLOR]</info>
+</channel>
+</channels>
+
+
+
+<channels>
+<channel>
+<name>[COLOR write]|||[/COLOR][COLOR purple]|||[/COLOR][COLOR white]|||[/COLOR] [COLOR white]------[/COLOR] [COLOR white]|||[/COLOR][COLOR purple]|||[/COLOR][COLOR white]|||[/COLOR]</name>
+<externallink></externallink>
+<thumbnail></thumbnail>
 <fanart></fanart>
 <info>[COLOR blue][/COLOR]</info>
 </channel>
