@@ -31,7 +31,7 @@
 </channels>
 
 <channel>
-<name>[B][COLOR white]O MECANISMO [COLOR gold](IMDB 8,9)[/COLOR][/COLOR][/B]</name>
+<name>[COLOR write]|||[/COLOR][COLOR purple]|||[/COLOR][COLOR white]|||[/COLOR] [COLOR white]O MECANISMO[/COLOR] [COLOR white]|||[/COLOR][COLOR purple]|||[/COLOR][COLOR white]|||[/COLOR]</name>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/O%20Mecanismo/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/O%20Mecanismo/fanart.jpg</fanart>
 <externallink>https://raw.github.com/skyrisk/brazucaplay/master/outros/series/O%20Mecanismo/menu</externallink>
@@ -52,7 +52,7 @@
 
 
 <channels>
-<channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]O MANDALORIANO: STAR WARS[/COLOR] [COLOR red]|[/COLOR]</name>
+<name>[COLOR write]|||[/COLOR][COLOR purple]|||[/COLOR][COLOR white]|||[/COLOR] [COLOR white]O MANDALORIANO: STAR WARS[/COLOR] [COLOR white]|||[/COLOR][COLOR purple]|||[/COLOR][COLOR white]|||[/COLOR]</name>
 <thumbnail>https://sm.ign.com/ign_br/screenshot/default/the-mandalorian-poster-pascal-1193420_869m.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/O-MANDALORIANO-STAR-WARS</externallink>
 <fanart>https://i0.wp.com/viciados.net/wp-content/uploads/2020/09/O-Mandaloriano-segunda-temporada-disney-plus.jpg</fanart>
