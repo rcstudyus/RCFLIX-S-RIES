@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+
+
+<item>
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a45621b75564bbcb571db9f02424b085dbd9535b</link>
+<thumbnail>https://fanart.tv/fanart/tv/248962/tvposter/transporter-58775a9fcc5a9.jpg</thumbnail>
+<fanart>https://fanart.tv/fanart/tv/248962/tvthumb/transporter-57991c1cab50c.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]2ª Temporada[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1924ff194dd620eeec07e3124f599de2e07c4574</link>
+<thumbnail>https://fanart.tv/fanart/tv/248962/seasonposter/transporter-59957e22383b4.jpg</thumbnail>
+<fanart>https://fanart.tv/fanart/tv/248962/tvthumb/transporter-50e5a4e5e75df.jpg</fanart>
+</item>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+
+
+<item>
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ac70b4e2f9f20ec2b5a8ae9205c03ccaeb86018</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9Yo9plrovUUl8sa3UFt3Q9bxpE.jpg</thumbnail>
+<fanart>https://aventurasnahistoria.uol.com.br/media/_versions/castelo_ra_tim_bum_widexl.jpg</fanart>
+</item>

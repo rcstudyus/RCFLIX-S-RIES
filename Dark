@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+
+
+<item>
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b9c90c97d4781b07767c331a687196a1cd1a17b</link>
+<thumbnail>https://fanart.tv/fanart/tv/334824/seasonposter/dark-5d308b369c222.jpg</thumbnail>
+<fanart>https://fanart.tv/fanart/tv/334824/tvthumb/dark-5a2a7712af6d1.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]2ª Temporada[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12ba417a923d0cc95f70b4f3e1cc17a262bf37f9</link>
+<thumbnail>https://fanart.tv/fanart/tv/334824/seasonposter/dark-5d308b444d2e0.jpg</thumbnail>
+<fanart>https://fanart.tv/fanart/tv/334824/tvthumb/dark-5d3086f10e952.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]3ª Temporada[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd7339b23baea772200b1a1ea5f5d2c23608b2b6&dn=</link>
+<thumbnail>https://fanart.tv/fanart/tv/334824/tvposter/dark-5eef7b0117115.jpg</thumbnail>
+<fanart>https://fanart.tv/fanart/tv/334824/tvthumb/dark-5edc7bff46612.jpg</fanart>
+</item>
