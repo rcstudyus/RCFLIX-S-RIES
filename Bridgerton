@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+
+
+<item>
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZRMLKZ5BB3CADP7QJIE3XCFIPPEVWTW5&dn=Bridgerton%20S01%20WEB-DL%201080p%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A1337%2Fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qaewZKBKmXjb4ZfFBb1LCug6BE8.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/m7FqiUOvsSk7Ulg2oRMfFGcLeT9.jpg</fanart>
+</item>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+
+
+<item>
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9254FC8B9E451ABCCE8B7C4A0A15E28E41AED250</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ixWbiECCPPUlZ0BhOTSm8vNepg.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/307chNwXjlg/maxresdefault.jpg</fanart>
+</item>
